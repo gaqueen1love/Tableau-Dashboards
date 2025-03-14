@@ -4,7 +4,7 @@
 # Tableu-Dashboard:[Product & Order Analytics]
 [View Interactive Dashboard] (https://public.tableau.com/views/ProductOrderAnalytics_17415566673120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-#Tableau-Dashboard:[World Covid Vaccination Rates]
+#Tableau-Dashboard:[World Covid]
 [View Interactive Dashboard] (https://public.tableau.com/views/CovidData_17414090809100/WorldCOVIDData?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #Tableu-Story:[Lightening Strike Presentation]

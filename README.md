@@ -12,3 +12,6 @@
 
 # Tableau-Dashboard:[Seoul Bike Rentals]
 [View Interative Dashboard] (https://public.tableau.com/views/SeoulBikeRentals_17217025180110/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+# Tableau-Dashboard:[Netflix Cinematic Map]
+[View Interative Dashboard] (https://public.tableau.com/views/Netflix_17465850672950/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
